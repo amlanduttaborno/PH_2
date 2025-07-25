@@ -165,7 +165,7 @@ body {
 .lover-container {
     display: flex;
     align-items: flex-start;
-    
+    gap: 2rem;
 }
 .lover-img-wrap {
     position: relative;
