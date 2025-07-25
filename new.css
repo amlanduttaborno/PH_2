@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', Arial, sans-serif;
     font-family: 'Segoe UI', Arial, sans-serif;
     background: #f3f4f6;
-    
+    color: #222;
 }
 
 /* Navbar */
@@ -65,7 +65,7 @@ body {
 }
 .banner-content {
     flex: 1;
-    display: flex;
+    
     flex-direction: column;
     justify-content: center;
 }
